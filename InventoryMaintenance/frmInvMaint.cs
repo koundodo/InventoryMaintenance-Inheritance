@@ -45,6 +45,9 @@ namespace InventoryMaintenance
             {
                 invItems += invItem;
             }
+            Debug.WriteLine($"Item type: {invItem.GetType()}");
+            Debug.WriteLine($"Item is InvItem: {invItem is InvItem}");
+            Debug.WriteLine($"Item is IDisplayable: {invItem is IDisplayable}");
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
