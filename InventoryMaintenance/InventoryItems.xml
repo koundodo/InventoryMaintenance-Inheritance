@@ -8,13 +8,6 @@
         <Size>1 gallon</Size>
     </Item>
     <Item>
-        <Type>Plant</Type>
-        <ItemNo>3762592</ItemNo>
-        <Description>Limonium</Description>
-        <Price>6.95</Price>
-        <Size>1 gallon</Size>
-    </Item>
-    <Item>
         <Type>Supply</Type>
         <ItemNo>9210584</ItemNo>
         <Description>Snail pellets</Description>
@@ -27,5 +20,19 @@
         <Description>Japanese Red Maple</Description>
         <Price>89.95</Price>
         <Size>15 gallon</Size>
+    </Item>
+    <Item>
+        <Type>Plant</Type>
+        <ItemNo>17272628</ItemNo>
+        <Description>red roses</Description>
+        <Price>29.99</Price>
+        <Size>24-inch box</Size>
+    </Item>
+    <Item>
+        <Type>Supply</Type>
+        <ItemNo>28292928</ItemNo>
+        <Description>black mulch</Description>
+        <Price>27.69</Price>
+        <Manufacturer>Ortho</Manufacturer>
     </Item>
 </Items>

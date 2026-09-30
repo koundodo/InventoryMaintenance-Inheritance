@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace InventoryMaintenance
 {
+
     public interface IDisplayable
     {
+        //Dado Koundoul
         string GetDisplayText();
     }
 }

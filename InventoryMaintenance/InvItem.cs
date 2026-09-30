@@ -18,6 +18,8 @@ namespace InventoryMaintenance
         public int ItemNo { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
+
+        //Dado Koundoul
         public virtual string GetDisplayText()
         {
             string sep = " , ";
